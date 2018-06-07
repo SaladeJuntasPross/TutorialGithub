@@ -16,7 +16,11 @@ Fin.
 
 Ahtziri estuvo aqui xd
 =======
+<<<<<<< HEAD
 Esta es una prueba NO.5
+=======
+Esta es una prueba NO.4
+>>>>>>> 4cb93c9b3d7a5eb8644031a5e03e75e4fb933395
 -
 -
 -
