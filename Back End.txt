@@ -12,5 +12,15 @@ Esta es una prueba NO.2
 -
 -
 Fin.
+<<<<<<< HEAD
 
 Ahtziri estuvo aqui xd
+=======
+Esta es una prueba NO.3
+-
+-
+-
+-
+-
+Fin.
+>>>>>>> 88c227e8096d0cfe872ce6267735dfdb45ffabe9
